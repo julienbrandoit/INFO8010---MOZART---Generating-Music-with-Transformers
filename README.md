@@ -49,5 +49,8 @@ To run the code, you will need the following Python libraries:
 
 5. **miditok**: A specific library for MIDI file tokenization.
    - Installation: `pip install miditok`
+  
+6. **mido**: A specific library to encode and decode MIDI file.
+   - Installation : `pip install mido`
 
 Make sure you have also installed any necessary dependencies for these libraries. Once you have installed these libraries, you should be able to run the code without any issues.
