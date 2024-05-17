@@ -1,0 +1,3 @@
+# In this folder ...
+
+In this directory, you will find the architectures that we implemented from scratch. Additionally, there are preprocessing and postprocessing files used for both Version 1 and Version 2 in 'state-based' tokenization.

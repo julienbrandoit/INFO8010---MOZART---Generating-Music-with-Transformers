@@ -26,3 +26,24 @@ This academic project does not bring fundamental novelty to the field of music g
 From a personal perspective, this project has allowed us to better understand how to design architectures, the challenges of deep learning, and the importance of preprocessing and tokenization steps, which are often overlooked when starting with deep learning.
 
 We had a lot of fun working on this project together, and it was a really great experience!
+
+## Libraries
+
+To run the code, you will need the following Python libraries:
+
+1. **torch**: For tensor computation and deep learning with PyTorch.
+   - Installation: `pip install torch`
+
+2. **wandb**: For online experiment tracking and visualization.
+   - Installation: `pip install wandb`
+
+3. **matplotlib**: For data and result visualization.
+   - Installation: `pip install matplotlib`
+
+4. **numpy**: For array support and mathematical operations.
+   - Installation: `pip install numpy`
+
+5. **miditok**: A specific library for MIDI file tokenization.
+   - Installation: `pip install miditok`
+
+Make sure you have also installed any necessary dependencies for these libraries. Once you have installed these libraries, you should be able to run the code without any issues.

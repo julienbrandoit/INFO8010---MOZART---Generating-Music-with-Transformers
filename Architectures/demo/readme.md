@@ -1,0 +1,3 @@
+# In this folder ...
+
+In this folder, you will find the Python files with the exact parameters used to generate the results. They can be used to confirm our results by combining them with the architecture definitions provided in the parent folder.

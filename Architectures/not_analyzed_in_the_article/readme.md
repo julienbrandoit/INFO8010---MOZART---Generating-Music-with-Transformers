@@ -1,0 +1,3 @@
+# In this folder ...
+
+This file contains versions that we did not explore in the article. In practice, these versions use a more complex tokenization to support multiple instruments and tempo variations. We did not explore these architectures due to a lack of training time on the cluster. The results obtained after 24 hours of training were not satisfactory. The loss was continuously decreasing, indicating room for improvement.
