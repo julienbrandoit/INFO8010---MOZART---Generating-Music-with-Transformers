@@ -20,6 +20,10 @@ Here we provide the python codes we made from scracth, as well as the music file
 
 We also provide the 'article' we have written for the project.
 
+See [Architectures](Architectures/readme.md) for the different architectures implementations.
+
+See [Results](Results/readme.md) for the results ! Plug in your headphones and let yourself be carried away by what MOZART was able to compose 🎶 🎹...
+
 ## What have we learned ?
 This academic project does not bring fundamental novelty to the field of music generation through the use of AI. It is an additional proof of concept of what the literature emphasizes.
 
