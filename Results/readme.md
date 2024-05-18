@@ -7,3 +7,7 @@ The `unfiltered` folder contains all kinds of productions, so we haven't made an
 The `filtered` folder contains productions that we have carefully selected. They demonstrate the musical possibilities offered by MOzART.  The starting prompts were not part of the training set.
 
 The files are formatted as follows `x.y.mid` where `x` is the version of MOzART used (as presented in the article) and `y` is a unique identifier for the production. In the unfiltered folder, this identifier corresponds to the number of gradient descent steps performed since the model was created. 
+
+# Our little favorites :
+
+Julien : '6.wellerman.mid'
