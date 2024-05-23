@@ -2,6 +2,7 @@
 As part of the INFO8010 - DEEP LEARNING course taught by Pr. Gilles Louppe at the University of Liège, we built a series of transformers aimed at generating music in MIDI format as a personal group project (3 students).  We provide here the different codes and also the results we were able to obtain.
 
 To make our project memorable, we named it MOzART (Musical Orchestra z Artificial Rhapsody Transformer).
+We encourage you to [read our article](Generating%20Music%20with%20Transformers.pdf) detailing our investigations and methods.
 
 ## Authors
 
