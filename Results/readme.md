@@ -8,6 +8,19 @@ The `filtered` folder contains productions that we have carefully selected. They
 
 The files are formatted as follows `x.y.mid` where `x` is the version of MOzART used (as presented in the article) and `y` is a unique identifier for the production. In the unfiltered folder, this identifier corresponds to the number of gradient descent steps performed since the model was created. 
 
-# Our little favorites :
-
-Julien : '6.wellerman.mid'
+# Approximate start prompts length:
+It's not always easy to see the transition between prompt and model. Below is a list of the prompt durations for the songs in the filtered folder : 
+```3-A : 12 s
+3.pirates : 16s
+3.potter : 25 s
+6.60200 : 15s ?
+6.65100 : 15s ?
+6.bird : 30 s
+6.dream : 30s
+6.dust : 14s
+6.mario : 40s
+6.pirates : 16s
+6.shape_of_you :17s
+6.town : 14s
+6.town2 : 14s
+6.wellerman : 14 s```
